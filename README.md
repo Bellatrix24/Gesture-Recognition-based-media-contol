@@ -22,8 +22,8 @@ To use the Gesture Recognition System, follow these steps:
 
 1) Install Dependencies: Make sure you have Python installed on your computer, along with the necessary libraries such as OpenCV, Mediapipe, and PyAutoGUI.
 
-2)Clone the Repository: Download the repository containing the Gesture Recognition System code.
+2) Clone the Repository: Download the repository containing the Gesture Recognition System code.
 
-3)Run the Code: Open the terminal or command prompt, navigate to the directory containing the code, and run the main script.
+3) Run the Code: Open the terminal or command prompt, navigate to the directory containing the code, and run the main script.
 
-4)Interact with Gestures: Once the webcam feed is displayed, start making hand gestures in front of the camera to control music playback and other actions.
+4) Interact with Gestures: Once the webcam feed is displayed, start making hand gestures in front of the camera to control music playback and other actions.
