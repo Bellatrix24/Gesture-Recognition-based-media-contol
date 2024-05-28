@@ -31,15 +31,15 @@ To use the Gesture Recognition System, follow these steps:
 # Supported Gestures
 The Gesture Recognition System is capable of detecting and interpreting various hand gestures to control music playback and other actions. Here are the gestures supported by the system:
 
-1) "Okay" Gesture:
+1) **"Okay" Gesture**:👌
      Description: Forming a circle with the thumb and index finger.
      Action: Pauses or resumes playback of music.
 
-2) Thumbs Up Gesture:
+2) **Thumbs Up Gesture**:👍
     Description: Raising the thumb while curling the other fingers into the palm.
     Action: Skips to the next track in the playlist.
 
-3) Victory Gesture:
+3) **Victory Gesture**:✌️
     Description: Extending the index and middle fingers while keeping the other fingers folded.
     Action: Returns to the previous track in the playlist.
 
