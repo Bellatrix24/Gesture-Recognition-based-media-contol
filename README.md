@@ -1,4 +1,4 @@
-# Gesture-Recognition-based-media-contol
+# Gesture-Recognition-based-media-control
 
 # **Introduction**
 
